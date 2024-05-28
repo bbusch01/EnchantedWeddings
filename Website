@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brandon Busch - Officiant</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #f3e5f5;
+            color: #4a148c;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        header {
+            background-color: #ab47bc;
+            padding: 20px;
+            border-bottom: 5px solid #6a1b9a;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 3em;
+        }
+        header h2 {
+            margin: 0;
+            font-size: 1.5em;
+            font-weight: lighter;
+        }
+        .about-me {
+            margin: 40px auto;
+            max-width: 800px;
+            background-color: #e1bee7;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .contact-info {
+            margin: 20px auto;
+            max-width: 600px;
+            background-color: #ce93d8;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #ab47bc;
+            padding: 10px;
+            border-top: 5px solid #6a1b9a;
+        }
+        footer p {
+            margin: 0;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Brandon Busch</h1>
+        <h2>Officiant</h2>
+    </header>
+    <div class="container">
+        <section class="about-me">
+            <h2>About Me</h2>
+            <p>Welcome to my enchanted world! My name is Brandon Busch, and I am an officiant dedicated to celebrating love in all its mystical and whimsical forms. With a background in finance and a passion for bringing people together, I find joy in uniting couples in non-religious weddings that reflect their unique love stories.</p>
+            <p>I believe that every couple deserves a ceremony that is as magical and enchanting as their love. Whether it's under the stars, in a blooming garden, or at a cozy indoor venue, I strive to create a memorable and heartfelt experience that will be cherished forever.</p>
+        </section>
+        <section class="contact-info">
+            <h2>Contact Me</h2>
+            <p>Phone: <a href="tel:9206094515">920-609-4515</a></p>
+            <p>Email: <a href="mailto:Mr.busch@live.com">Mr.busch@live.com</a></p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Brandon Busch. All rights reserved.</p>
+    </footer>
+</body>
+</html>
